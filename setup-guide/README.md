@@ -7,7 +7,7 @@ This repository provides a simple guide and script to install **ROS2 Humble** on
 # Hardware Used
 
 * AMD KR260 Robotics Starter Kit
-* Logitech C270 USB Camera
+* Logitech C270 USB Camera (Not Needed for turtlesim demo)
 
 ---
 
@@ -23,7 +23,9 @@ This repository provides a simple guide and script to install **ROS2 Humble** on
 ```
 KR260-ROS2-Tutorial
 │
+├── Images
 ├── README.md
+├── setup-guide
 ├── LICENSE
 ├── .gitignore
 └── scripts
@@ -43,7 +45,7 @@ scripts/install_ros2.sh
 First download this repository to your KR260 board.
 
 ```
-git clone https://github.com/YOUR_USERNAME/KR260-ROS2-Tutorial.git
+git clone https://github.com/make2explore/KR260-ROS2-Tutorial
 ```
 
 Move into the project directory.
