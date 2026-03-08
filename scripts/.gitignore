@@ -1,0 +1,23 @@
+# Linux temporary files
+
+*~
+*.swp
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# ROS build folders
+
+build/
+install/
+log/
+
+# VSCode settings
+
+.vscode/
+
+# System files
+
+.DS_Store
