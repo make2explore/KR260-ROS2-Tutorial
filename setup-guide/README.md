@@ -103,7 +103,17 @@ Installation may take **20–40 minutes** depending on network speed.
 
 # 4. Verify ROS2 Installation
 
-After installation, verify ROS2 is available:
+After installation, verify ROS2 is available:  
+  
+### 4.1 Load ROS2 Environment
+
+Before using ROS2 commands, load the ROS2 environment:
+
+```
+source /opt/ros/humble/setup.bash
+```
+  
+### 4.2 Run the help command  
 
 ```
 ros2 --help
