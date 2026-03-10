@@ -32,7 +32,7 @@ KR260-ROS2-Tutorial
      └── install_ros2.sh
 ```
 
-The installation script used in this tutorial is located in:
+The installation script used in this tutorial is located in :
 
 ```
 scripts/install_ros2.sh
@@ -42,7 +42,7 @@ scripts/install_ros2.sh
 
 # 1. Clone this Repository
 
-First download this repository to your KR260 board.
+First download this repository into your KR260 board.
 
 ```
 git clone https://github.com/make2explore/KR260-ROS2-Tutorial
