@@ -139,8 +139,8 @@ Open **another terminal** and run:
 ros2 run turtlesim turtle_teleop_key
 ```
 
-Use the **arrow keys** to control the turtle.
-
+Use the **arrow keys** to control the turtle. Or Other keys shown in terminal window for rotation etc.  
+ 
 If the turtle moves, ROS2 is working correctly.
 
 ---
