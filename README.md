@@ -31,7 +31,7 @@ The board is heavily optimized for industrial networking and machine vision, equ
 - KR260 Power Supply & Adapter - AC/DC WALL MOUNT ADAPTER 12V 36W  
 - USB-A to micro-B Cable  
 - Ethernet Cable  
-- DisplayPort Cable or (DP to HDMI adaptor)
+- DisplayPort Cable
 - DisplayPort Monitor
 
 ------------------------------------------------------------------------------------------------------
