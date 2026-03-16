@@ -58,7 +58,7 @@ cd KR260-ROS2-Tutorial
 
 # 2. Prepare the KR260 Environment
 
-Boot the KR260 board and open a terminal.
+Before installing ROS2 we need to activate the PYNQ environment used by KRIA.  
 
 Activate the **PYNQ environment**:
 
@@ -66,6 +66,12 @@ Activate the **PYNQ environment**:
 sudo su
 source /etc/profile.d/pynq_venv.sh
 ```
+After this step you should see the terminal prompt change to:
+```
+(pynq-venv)
+```
+This means the KRIA environment is ready.  
+
 
 ---
 
