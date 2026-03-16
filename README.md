@@ -39,7 +39,7 @@ The board is heavily optimized for industrial networking and machine vision, equ
 📕 **YouTube Video Links**  
 
 ▶️ KR260 Robotics Starter Kit Unboxing - ROS 2 + FPGA Power 🔗  https://youtu.be/dSLpAk4iOcQ  
-▶️ KR260 ROS2 tutorial 🔗  https://youtu.be/  
+▶️ KR260 ROS2 Tutorial 🔗  https://youtu.be/  
 
 
 -------------------------------------------------------------------------------------------------------
