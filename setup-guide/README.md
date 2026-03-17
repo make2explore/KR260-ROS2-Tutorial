@@ -153,7 +153,7 @@ If the turtle moves, ROS2 is working correctly.
 
 # Troubleshooting
 
-If ROS commands are not found, load the ROS environment manually:
+If you get error like : ROS commands are not found, load the ROS environment manually:
 
 ```
 source /opt/ros/humble/setup.bash
